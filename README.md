@@ -1,4 +1,4 @@
 # one
 first git repo
 <br>
-Author - Ujjwal Srivastava
+Author - Ujjwal K Srivastava
